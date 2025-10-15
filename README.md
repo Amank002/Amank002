@@ -1,72 +1,61 @@
-# Project Title
-> ⚡ Two-line GitHub bio:  
-> 💻 Passionate developer creating efficient, scalable, and impactful digital solutions using modern technologies. 🚀
+# 💫 Hi 👋, I'm Aman Kumar
+🎓 **B.Tech CSE | MERN Stack Developer | Problem Solver | Tech Enthusiast**
 
-[![Status: WIP](https://img.shields.io/badge/status-WIP-yellow.svg)]()
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)]()
-[![Repo Size](https://img.shields.io/github/repo-size/your-username/your-repo)]()
-[![Top Language](https://img.shields.io/github/languages/top/your-username/your-repo)]()
-
----
-
-## Table of Contents
-1. [About](#about)  
-2. [Tech Stack](#tech-stack)  
-3. [Features](#features)  
-4. [Demo / Screenshot](#demo--screenshot)  
-5. [Installation](#installation)  
-6. [Usage](#usage)  
-7. [Development](#development)  
-8. [Contributing](#contributing)  
-9. [License](#license)  
-10. [Contact](#contact)
+- 🔭 Currently working on **AI Chatbox & Web Applications using MERN Stack**  
+- 🌱 Learning **Cloud Computing, APIs, and Scalable System Design**  
+- 💡 Interested in **AI, Automation, and Full-Stack Development**  
+- 📫 Reach me at: **amankum2626@gmail.com**  
+- ⚡ Fun fact: I love building tech that simplifies real-world problems!  
 
 ---
 
-## About
-Concise paragraph describing the project: what it does, who it's for, and the main problem it solves. Keep it short and clear.
-
-Example:  
-A lightweight web app that helps users track and visualize their daily productivity. Built for developers and small teams who want a simple, fast dashboard.
-
----
-
-## Tech Stack
-- **Frontend:** React, TypeScript, Tailwind CSS  
-- **Backend:** Node.js, Express (or FastAPI, Django, etc.)  
-- **Database:** PostgreSQL / MongoDB  
-- **DevOps:** Docker, GitHub Actions, Vercel / Netlify
-
-> Replace the above with your actual stack.
+## 🌐 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-kumar-7b37b7340)  
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/Amank002)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amankum2626@gmail.com)  
 
 ---
 
-## Features
-- ✅ Authentication (JWT / OAuth)  
-- ✅ CRUD for tasks / items  
-- ✅ Live charts and analytics  
-- ✅ Responsive design for mobile and desktop  
-- ✅ Tests and CI configured
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="snake animation" />
+</div>
 
 ---
 
-## Demo / Screenshot
-Add a screenshot or link to a live demo here.
-
-![screenshot](./assets/screenshot.png)
-
-Live demo: `https://your-demo-url.com`
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ---
 
-## Installation
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Amank002&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Amank002&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amank002&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### Prerequisites
-- Node.js >= 18
-- npm or yarn
-- (Optional) Docker
+---
 
-### Clone
-```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Amank002&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Amank002&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=Amank002&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with ❤️ by Aman Kumar -->
